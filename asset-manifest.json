@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Cook_Now_/static/css/main.14e6ce9e.css",
+    "main.js": "/Cook_Now_/static/js/main.ba0f4299.js",
+    "index.html": "/Cook_Now_/index.html",
+    "main.14e6ce9e.css.map": "/Cook_Now_/static/css/main.14e6ce9e.css.map",
+    "main.ba0f4299.js.map": "/Cook_Now_/static/js/main.ba0f4299.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14e6ce9e.css",
+    "static/js/main.ba0f4299.js"
+  ]
+}
